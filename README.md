@@ -1,6 +1,4 @@
-# 0x00. MySQL advanced
-
-# **0x00. MySQL advanced**
+# **[0x00. MySQL advanced](https://github.com/lahincapie/holbertonschool-backend-storage/tree/master/0x00-MySQL_Advanced)**
 
 # **Concepts**
 
@@ -120,7 +118,7 @@ $
 
 **********
 
-# **0x01. NoSQL**
+# **[0x01. NoSQL](https://github.com/lahincapie/holbertonschool-backend-storage/tree/master/0x01-NoSQL)**
 
 # **Resources**
 
@@ -249,10 +247,7 @@ $
 *************
 
 
-# **0x02. Redis basic**
-
-![https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/1/40eab4627f1bea7dfe5e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220504T123855Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=37fab1164a43fbf1615d1010db26c93c5978805d3040307fe8e683e8b62d65d4](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/1/40eab4627f1bea7dfe5e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220504T123855Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=37fab1164a43fbf1615d1010db26c93c5978805d3040307fe8e683e8b62d65d4)
-
+# **[0x02. Redis basic](https://github.com/lahincapie/holbertonschool-backend-storage/tree/master/0x02-redis_basic)**
 # **Resources**
 
 **Read or watch:**
