@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-    script that provides some stats about Nginx logs stored in MongoDB:
+This project module contains a Python script that provides
+some stats about Nginx logs stored in MongoDB.
 """
 
 import pymongo
@@ -9,7 +10,10 @@ from pymongo import MongoClient
 
 def stats_logs() -> None:
     """
-        script that provides some stats about Nginx logs stored in MongoDB:
+    Function that provides some stats about Nginx logs
+    stored in MongoDB.
+    Returns:
+        Stats about Nginx logs.
     """
     methods = ["GET", "POST", "PUT", "PATCH", "DELETE"]
     myclient = pymongo.MongoClient("mongodb://localhost:27017/")
